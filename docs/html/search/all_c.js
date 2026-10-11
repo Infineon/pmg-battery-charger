@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['normalchrgtmrcnt_0',['normalChrgTmrCnt',['../structcy__stc__battery__charger__cfg__t.html#a98f593d3f2d15784072c567d6e7efd65',1,'cy_stc_battery_charger_cfg_t']]],
+  ['normalchrgtmren_1',['normalChrgTmrEn',['../structcy__stc__battery__charger__cfg__t.html#a208ff24ba5ab48fd82ec0c300e8bb54a',1,'cy_stc_battery_charger_cfg_t']]],
+  ['ntc0_5fotp_2',['ntc0_otp',['../structpmg__fault__t.html#a065e2c3d34ad76f2b68e83da14f135dd',1,'pmg_fault_t']]],
+  ['ntc0hotthres_3',['ntc0HotThres',['../structcy__stc__battery__charger__cfg__t.html#a677c2de5f0c8fdd97116be4ee12c09f2',1,'cy_stc_battery_charger_cfg_t']]],
+  ['ntc0otpthres_4',['ntc0OtpThres',['../structcy__stc__battery__charger__cfg__t.html#a098245f31f00101ddb50318b52106100',1,'cy_stc_battery_charger_cfg_t']]],
+  ['ntc0temphyst_5',['ntc0TempHyst',['../structcy__stc__battery__charger__cfg__t.html#a5938f3ea574542c904908f80c3912f7f',1,'cy_stc_battery_charger_cfg_t']]],
+  ['ntc0tempmonitoren_6',['ntc0TempMonitorEn',['../structcy__stc__battery__charger__cfg__t.html#ab0b4051402776b6a5bd97cc98e008ecc',1,'cy_stc_battery_charger_cfg_t']]],
+  ['ntc1_5fotp_7',['ntc1_otp',['../structpmg__fault__t.html#a7111faee11bfca3e8929f473c0e613eb',1,'pmg_fault_t']]],
+  ['ntc1_5fstate_8',['ntc1_state',['../structcy__stc__battery__status__t.html#a7db16ef4b97b3f7398a6813e5f900c5f',1,'cy_stc_battery_status_t']]],
+  ['ntc1_5fsum_9',['ntc1_sum',['../structcy__stc__battery__measure__t.html#a8616d744349606b71a8a53397af0535e',1,'cy_stc_battery_measure_t']]],
+  ['ntc1_5ftemp_10',['ntc1_temp',['../structcy__stc__battery__status__t.html#a35b50a35069e6a4c1fb3670c9396aa61',1,'cy_stc_battery_status_t']]],
+  ['ntc1coldthres_11',['ntc1ColdThres',['../structcy__stc__battery__charger__cfg__t.html#aeef414d06d3dba264bcd74138b61474b',1,'cy_stc_battery_charger_cfg_t']]],
+  ['ntc1hotthres_12',['ntc1HotThres',['../structcy__stc__battery__charger__cfg__t.html#a42fb83a9a41827da7c575eb83eef364f',1,'cy_stc_battery_charger_cfg_t']]],
+  ['ntc1otpthres_13',['ntc1OtpThres',['../structcy__stc__battery__charger__cfg__t.html#a7c5980affedc5e5233b3d5f7af08dff3',1,'cy_stc_battery_charger_cfg_t']]],
+  ['ntc1temphyst_14',['ntc1TempHyst',['../structcy__stc__battery__charger__cfg__t.html#acb3c81b266d3b12e204bd83a6541362a',1,'cy_stc_battery_charger_cfg_t']]],
+  ['ntc1tempmonitoren_15',['ntc1TempMonitorEn',['../structcy__stc__battery__charger__cfg__t.html#af1b6e4f740a7fe7194156c87502ffe7b',1,'cy_stc_battery_charger_cfg_t']]]
+];
